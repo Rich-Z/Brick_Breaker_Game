@@ -9,7 +9,7 @@ import { detectCollision, handleCollisions, redirectBall } from './collisionDete
 let canvas = document.getElementById("gameScreen");
 let ctx = canvas.getContext("2d");
 let FPS = 60; 
-let levels = [level1];
+let levels = [level1, level2, level3];
 
 let paddle = new Paddle();
 new InputHandler(paddle);

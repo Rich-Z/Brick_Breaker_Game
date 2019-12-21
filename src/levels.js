@@ -50,14 +50,7 @@ export const level3 = [
     [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
 ];
 
-export const level1 = [
-    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
-
- 
-];
-
-
-export const level4 = [
+export const level2 = [
     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
 
     [1, 1, 1, 1, 0, 0, 1, 1, 1, 1],
@@ -92,7 +85,7 @@ export const level4 = [
 
 ];
 
-export const level2 = [
+export const level1 = [
     [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
 
     [1, 1, 1, 1, 0, 1, 0, 1, 1, 1],
